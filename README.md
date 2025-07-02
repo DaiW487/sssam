@@ -1,2 +1,2 @@
 # sssam
-## This is used tu transfer files tu server
+## This is used to transfer files tu server
